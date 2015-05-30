@@ -1,0 +1,29 @@
+{
+  "name": "then-stringify-json",
+  "version": "0.0.0",
+  "description": "Gracefully stringify JSON using promises - promisified JSON.stringify",
+  "repository": "tunnckoCore/then-stringify-json",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "native-or-bluebird": "~1.2.0"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "bluebird": "^2.9.27",
+    "is-promise": "^2.0.0"
+  },
+  "keywords": [
+    "aplus",
+    "async",
+    "json",
+    "json-stringify",
+    "stringify",
+    "promise",
+    "then"
+  ]
+}
