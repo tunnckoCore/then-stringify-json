@@ -33,7 +33,7 @@ JSONStringify({foo: 'bar'})
 - [promise](https://github.com/then/promise): Bare bones Promises/A+ implementation
 - [try-read-json](https://github.com/tunnckoCore/try-read-json): Fast, meaningful and correct try/catch flow for reading JSON with JSON.parse - support optional callback
 - [then-parse-json](https://github.com/tunnckoCore/then-parse-json): Gracefully parse JSON using promises - promisified JSON.parse
-
+- [then-read-json](https://github.com/tunnckoCore/then-read-json): Read JSON file using promises
 
 
 ## Contributing
