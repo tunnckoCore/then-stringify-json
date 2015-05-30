@@ -29,10 +29,10 @@ JSONStringify({foo: 'bar'})
 
 ## Related
 - [bluebird](https://github.com/petkaantonov/bluebird): Full featured Promises/A+ implementation with exceptionally good performance
-- [make-callback](https://github.com/tunnckocore/make-callback): Make synchronous function to support callback api
+- [make-callback](https://github.com/tunnckoCore/make-callback): Make synchronous function to support callback api
 - [promise](https://github.com/then/promise): Bare bones Promises/A+ implementation
-- [try-read-json](https://github.com/tunnckocore/try-read-json): Fast, meaningful and correct try/catch flow for reading JSON with JSON.parse - support optional callback
-- [then-parse-json](https://github.com/tunnckocore/then-parse-json): Gracefully parse JSON using promises - promisified JSON.parse
+- [try-read-json](https://github.com/tunnckoCore/try-read-json): Fast, meaningful and correct try/catch flow for reading JSON with JSON.parse - support optional callback
+- [then-parse-json](https://github.com/tunnckoCore/then-parse-json): Gracefully parse JSON using promises - promisified JSON.parse
 
 
 
