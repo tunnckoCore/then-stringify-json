@@ -21,7 +21,7 @@ nbproject
 cache
 temp
 tmp
-then-parse-json
+then-stringify-json
 
 # Packages #
 # ##########
